@@ -8,8 +8,14 @@
   <a href="mailto:dezoysaudara@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://www.hackerrank.com/harsha_udara" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black">
+  </a>
   <a href="https://leetcode.com/udaradezoysa/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+  <a href="https://discord.gg/tXt6z79S" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
 
@@ -42,12 +48,12 @@
 `React` `Spring Boot` `Microservices` `AWS` `Docker`  
 ▶️ Developed end-to-end B2B platform connecting Sri Lankan cinnamon producers with global buyers  
 ▶️ Implemented JWT authentication with Keycloak & Redis caching layer  
-▶️ Reduced intermediary costs by 40% while boosting tourism engagement  
+▶️ Reduced intermediary costs while boosting tourism engagement  
 
 **Wildlife Photo Manager** | *Java Developer*  
 `JavaFX` `MySQL` `OOP`  
-▶️ Created desktop app for wildlife photographers to manage 10k+ photo metadata  
-▶️ Enhanced workflow efficiency by 35% through automated categorization  
+▶️ Created desktop app for wildlife photographers to manage photos and metadata of them  
+▶️ Enhanced workflow efficiency through categorization  
 
 ---
 
@@ -73,10 +79,11 @@
 
 ### 💼 Professional Journey
 
+ **Assistant Warehouse Supervisor** @ Logicare Logistics  
+📅 Mar 2022 - Aug 2022 | Wattala, Sri Lanka 
+
 **Warehouse Supervisor** @ Spectra Logistics  
 📅 Feb 2021 - Aug 2021 | Wattala, Sri Lanka  
-✅ Managed inventory systems for 50+ SKUs  
-✅ Led team of 15 warehouse staff  
 
 ---
 
