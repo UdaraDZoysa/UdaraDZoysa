@@ -1,90 +1,86 @@
-<h1 align="center">Hi 👋, I'm Udara De Zoysa</h1>
-<h3 align="center">Aspiring Software Engineer | Computer Science Undergraduate at University of Ruhuna, Sri Lanka</h3>
+<h1 align="center">👋 Hello, I'm Harsha De Zoysa</h1>
+<h3 align="center">🚀 Passionate Full-Stack Developer | Computer Science Undergraduate @ University of Ruhuna</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=udaradzoysa&label=Profile%20views&color=0e75b6&style=flat" alt="udaradzoysa" />
-</p>
-
----
-
-🔭 **I’m currently working on**  
-- A full-stack microservices-based web platform, **Ceylon Fusion**, to connect Sri Lankan cinnamon producers with global buyers  
-- A JavaFX-based image management tool for wildlife photography
-
-🌱 **I’m currently learning**  
-- Advanced system design  
-- Docker & AWS deployment practices
-
-👯 **I’m looking to collaborate on**  
-- Open-source backend services  
-- Full-stack real-world applications
-
-📫 **Reach me at:**  
-**dezoysaudara@gmail.com**
-
----
-
-### 🧑‍💻 Connect with me:
-<p>
-  <a href="https://linkedin.com/in/udara-de-zoysa-52267825b" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/udara-de-zoysa-52267825b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.hackerrank.com/harsha_udara" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+  <a href="mailto:dezoysaudara@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.leetcode.com/udaradezoysa" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/tXt6z79S" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
+  <a href="https://leetcode.com/udaradezoysa/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🔧 Technical Arsenal
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+**Full-Stack Development**  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+
+**Databases & DevOps**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+
+**Architectures & Practices**  
+![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?logo=kubernetes&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-009688?logo=agile&logoColor=white)
+
+---
+
+### 🏆 Notable Projects
+
+**Ceylon Fusion Platform** | *Full-Stack Lead*  
+`React` `Spring Boot` `Microservices` `AWS` `Docker`  
+▶️ Developed end-to-end B2B platform connecting Sri Lankan cinnamon producers with global buyers  
+▶️ Implemented JWT authentication with Keycloak & Redis caching layer  
+▶️ Reduced intermediary costs by 40% while boosting tourism engagement  
+
+**Wildlife Photo Manager** | *Java Developer*  
+`JavaFX` `MySQL` `OOP`  
+▶️ Created desktop app for wildlife photographers to manage 10k+ photo metadata  
+▶️ Enhanced workflow efficiency by 35% through automated categorization  
+
+---
+
+### 🏅 Achievements
+
+🥇 **1st Place** - Insurgex Intra Faculty Hackathon 2023  
+🥈 **Runner-Up** - Insurgex Intra University Hackathon 2023  
+🚀 **Finalist** - HAXtreme Engineering Hackathon 2022  
+
+---
+
+### 📚 Education
+
+**BSc Computer Science**  
+🎓 University of Ruhuna | GPA: 3.88/4.0  
+📅 2022 - Present | Matara, Sri Lanka  
+
+**GCE A/L Physical Science**  
+🏫 Gurukula College | 3B Grades  
+📅 2020 | Kelaniya, Sri Lanka  
+
+---
+
+### 💼 Professional Journey
+
+**Warehouse Supervisor** @ Spectra Logistics  
+📅 Feb 2021 - Aug 2021 | Wattala, Sri Lanka  
+✅ Managed inventory systems for 50+ SKUs  
+✅ Led team of 15 warehouse staff  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udaradzoysa&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=udaradzoysa&theme=radical&hide_border=true" alt="GitHub Streak">
 </p>
-
----
-
-### 📈 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaradzoysa&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 Achievements
-- 🥇 **1st Place** – Road to Insurgex 1.0 Intra-Faculty Hackathon  
-- 🥈 **Runner-up** – Insurgex 1.0 Intra-University Hackathon  
-- 🎯 **Participant** – HAXtreme Hackathon (University of Ruhuna)
-
----
-
-### 💼 Notable Projects
-
-**Ceylon Fusion**  
-> Full-stack web platform to connect cinnamon producers with global buyers  
-> `React`, `Spring Boot`, `PostgreSQL`, `Docker`, `AWS`, `Redis`, `Keycloak`, `Microservices`, `BFF`
-
-**Wildlife Photography Rookie Partner**  
-> JavaFX desktop app for organizing wildlife images with location, species, and camera metadata  
-> `Java`, `JavaFX`, `MySQL`, `Scene Builder`
-
----
-
-_Thanks for visiting my profile! 😊_
