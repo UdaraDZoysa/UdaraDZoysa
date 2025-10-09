@@ -68,7 +68,7 @@
 ### 📚 Education
 
 **BSc Computer Science**  
-🎓 University of Ruhuna | GPA: 3.88/4.0  
+🎓 University of Ruhuna  
 📅 2022 - Present | Matara, Sri Lanka  
 
 **GCE A/L Physical Science**  
