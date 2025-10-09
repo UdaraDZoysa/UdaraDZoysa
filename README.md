@@ -61,7 +61,7 @@
 
 🥇 **1st Place** - Insurgex Intra Faculty Hackathon 2023  
 🥈 **Runner-Up** - Insurgex Intra University Hackathon 2023  
-🚀 **Finalist** - HAXtreme Engineering Hackathon 2022  
+🚀 **Participant** - HAXtreme Engineering Hackathon 2022  
 
 ---
 
