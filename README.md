@@ -86,8 +86,3 @@
 📅 Feb 2021 - Aug 2021 | Wattala, Sri Lanka  
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udaradzoysa&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=udaradzoysa&theme=radical&hide_border=true" alt="GitHub Streak">
-</p>
