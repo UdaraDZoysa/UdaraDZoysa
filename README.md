@@ -1,88 +1,95 @@
-<h1 align="center">👋 Hello, I'm Harsha De Zoysa</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer | Computer Science Undergraduate @ University of Ruhuna</h3>
-
+<!-- ===== Banner ===== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/udara-de-zoysa-52267825b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:dezoysaudara@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.hackerrank.com/harsha_udara" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black">
-  </a>
-  <a href="https://leetcode.com/udaradezoysa/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-  </a>
-  <a href="https://discord.gg/tXt6z79S" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Harsha%20De%20Zoysa&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Backend%20%26%20Full-Stack%20Engineer%20•%20Event-Driven%20Microservices%20•%20Applied%20AI&descAlignY=58&descSize=16" width="100%" alt="banner"/>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Software+Engineer+Intern+%40+IFS;Spring+Boot+%7C+Kafka+%7C+PostgreSQL;LLM+Integration+%26+System+Design;CS+Undergraduate+%40+University+of+Ruhuna" alt="typing"/>
+</p>
 
-### 🔧 Technical Arsenal
+<p align="center">
+  <a href="https://www.linkedin.com/in/udara-de-zoysa-52267825b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:dezoysaudara@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/UdaraDZoysa"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/udaradezoysa/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.hackerrank.com/harsha_udara"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
+  <a href="https://discord.gg/tXt6z79S"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=UdaraDZoysa&label=Profile%20views&color=58A6FF&style=flat-square" alt="views"/>
+</p>
 
-**Full-Stack Development**  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+<br/>
 
-**Databases & DevOps**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+## &nbsp;⚡ About
 
-**Architectures & Practices**  
-![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?logo=kubernetes&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-009688?logo=agile&logoColor=white)
+```yaml
+name:          Harsha De Zoysa
+current role:  Undergraduate Trainee Software Engineer @ IFS
+location:      Wattala, Sri Lanka
+education:     BSc Computer Science (First Class) — University of Ruhuna
+```
 
----
+<br/>
 
-### 🏆 Notable Projects
+## &nbsp;🧰 Tech Stack
 
-**Ceylon Fusion Platform** | *Full-Stack Lead*  
-`React` `Spring Boot` `Microservices` `AWS` `Docker`  
-▶️ Developed end-to-end B2B platform connecting Sri Lankan cinnamon producers with global buyers  
-▶️ Implemented JWT authentication with Keycloak & Redis caching layer  
-▶️ Reduced intermediary costs while boosting tourism engagement  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,mysql,redis&theme=dark" alt="backend"/><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind&theme=dark" alt="frontend"/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,idea,postman&theme=dark" alt="devops"/>
+</p>
 
-**Wildlife Photo Manager** | *Java Developer*  
-`JavaFX` `MySQL` `OOP`  
-▶️ Created desktop app for wildlife photographers to manage photos and metadata of them  
-▶️ Enhanced workflow efficiency through categorization  
+<p align="center">
+  <sub><b>Also:</b> Spring WebFlux · Microservices · BFF · Domain-Driven Design · REST · SOLID · Groq LLM · Telegram Bot API · Agile</sub>
+</p>
 
----
+<br/>
 
-### 🏅 Achievements
+## &nbsp;🚀 Featured Projects
 
-🥇 **1st Place** - Insurgex Intra Faculty Hackathon 2023  
-🥈 **Runner-Up** - Insurgex Intra University Hackathon 2023  
-🚀 **Participant** - HAXtreme Engineering Hackathon 2022  
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>📈 CSE AI Investment Intelligence Platform</h3>
+      <p>An <b>event-driven microservices</b> system that ingests Colombo Stock Exchange market data and generates <b>AI-assisted investment insights</b>.</p>
+      <ul>
+        <li>7 reactive <b>Spring Boot</b> services + a <b>BFF gateway</b>, decoupled over <b>Apache Kafka</b>.</li>
+        <li><b>Inbox / Outbox</b>, retry scheduling & <b>Dead Letter Topic</b> handling for resilient messaging.</li>
+        <li><b>Groq LLM</b> reasoning + web-search enrichment → readable market narratives.</li>
+        <li><b>Database-per-service</b> (PostgreSQL) · <b>DDD</b> core · <b>Telegram Bot API</b> alerts · <b>Docker</b>.</li>
+      </ul>
+      <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,nextjs,react,ts,docker&theme=dark" height="32" alt="stack"/>
+    </td>
+    <td width="45%" valign="top">
+      <h3>🌿 Ceylon Fusion Platform</h3>
+      <p><i>Full-Stack Lead</i> — B2B platform connecting Sri Lankan cinnamon producers directly with global buyers, removing intermediary costs.</p>
+      <ul>
+        <li>JWT auth with <b>Keycloak</b>, <b>Redis</b> caching, SMTP verification.</li>
+        <li>Microservices + BFF, deployed with <b>Docker on AWS</b>.</li>
+      </ul>
+      <img src="https://skillicons.dev/icons?i=react,spring,postgres,redis,aws,docker&theme=dark" height="32" alt="stack"/>
+      <br/><br/>
+      <h3>📷 Wildlife Photo Manager</h3>
+      <p><i>Java Developer</i> — desktop app to categorize and secure wildlife photo collections with rich metadata, built on OOP principles.</p>
+      <img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" height="32" alt="stack"/>
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-### 📚 Education
+## &nbsp;💼 Experience &nbsp;·&nbsp; 🎓 Education
 
-**BSc Computer Science**  
-🎓 University of Ruhuna  
-📅 2022 - Present | Matara, Sri Lanka  
+| | |
+|---|---|
+| **Undergraduate Trainee Software Engineer** — IFS | `Jul 2025 – Present` |
+| **Bachelor of Computer Science — First Class**, University of Ruhuna | `2022 – 2025` |
+| **Assistant Warehouse Supervisor** — Logicare Logistics | `Mar 2022 – Aug 2022` |
+| **Warehouse Supervisor** — Spectra Logistics | `Feb 2021 – Aug 2021` |
+| **GCE A/L — Physical Science** (3 B), Gurukula College | `2020` |
 
-**GCE A/L Physical Science**  
-🏫 Gurukula College | 3B Grades  
-📅 2020 | Kelaniya, Sri Lanka  
+**🏆 Achievements** — 🥇 1st Place, Insurgex 1.0 (Intra Faculty) · 🥈 Runner-Up, Insurgex 1.0 (Intra University) · 🚀 HAXtreme Hackathon
 
----
+<br/>
 
-### 💼 Professional Journey
-
- **Assistant Warehouse Supervisor** @ Logicare Logistics  
-📅 Mar 2022 - Aug 2022 | Wattala, Sri Lanka 
-
-**Warehouse Supervisor** @ Spectra Logistics  
-📅 Feb 2021 - Aug 2021 | Wattala, Sri Lanka  
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%" alt="footer"/>
